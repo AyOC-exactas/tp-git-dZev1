@@ -1,6 +1,9 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
 
-En mi tiempo libre me gusta...
+Hola! Mi nombre es Diego Zevallos.
 
-Mi instrucción favorita del manual de intel es...
+En mi tiempo libre me gusta leer y escuchar música.
+
+![alt text](img/link_thumbsup.gif)
+
+Mi instrucción favorita del manual de intel es MOV.
